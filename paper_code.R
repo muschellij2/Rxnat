@@ -1,6 +1,8 @@
-# Install Rxnat dependencies for the examplein the paper
+# Install Rxnat dependencies for the example in the paper
 # The paper example requires FSL as a system dependency.
-# To install FSL please follow this guide: https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation
+# To install FSL please follow this guide: 
+# https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation
+
 #
 # The R dependencies can be installed easily using 
 # `install.packages()` function 
